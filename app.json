@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "보드게임 타이머",
+    "slug": "board-game-timer",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#262626"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#262626"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png",
+      "name": "보드게임 타이머",
+      "shortName": "타이머",
+      "description": "보드게임용 타이머 앱",
+      "lang": "ko",
+      "themeColor": "#262626",
+      "backgroundColor": "#262626"
+    }
+  }
+} 
